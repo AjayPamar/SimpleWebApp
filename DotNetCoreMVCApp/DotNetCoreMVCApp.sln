@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreMVCApp", "DotNetCoreMVCApp.csproj", "{55A8B3BE-832A-44F5-9598-BFD010730F17}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodeJsWebApi", "..\NodeJsWebApi\NodeJsWebApi.njsproj", "{5B11B6E2-5FFF-44E8-853B-A6E432CDB866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A8B3BE-832A-44F5-9598-BFD010730F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A8B3BE-832A-44F5-9598-BFD010730F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A8B3BE-832A-44F5-9598-BFD010730F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A8B3BE-832A-44F5-9598-BFD010730F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B11B6E2-5FFF-44E8-853B-A6E432CDB866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B11B6E2-5FFF-44E8-853B-A6E432CDB866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B11B6E2-5FFF-44E8-853B-A6E432CDB866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B11B6E2-5FFF-44E8-853B-A6E432CDB866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA474E20-1809-45EC-A302-9AA0467B26FB}
+	EndGlobalSection
+EndGlobal

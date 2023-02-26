@@ -1,0 +1,1229 @@
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.exe
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.deps.json
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.runtimeconfig.json
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.runtimeconfig.dev.json
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.pdb
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.Views.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.Views.pdb
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.csproj.AssemblyReference.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.AssemblyInfoInputs.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.AssemblyInfo.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.csproj.CoreCompileInputs.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorAssemblyInfo.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorAssemblyInfo.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreMVCApp.StaticWebAssets.Manifest.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreMVCApp.StaticWebAssets.xml
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\DotNetCoreMVCApp.styles.css
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.TagHelpers.input.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.TagHelpers.output.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorCoreGenerate.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorTargetAssemblyInfo.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorTargetAssemblyInfo.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.Views.pdb
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.csproj.CopyComplete
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.pdb
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.genruntimeconfig.cache
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\UserCRUD\Index.cshtml.g.cs
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Ajay\Visual Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.exe
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.deps.json
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.runtimeconfig.json
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.runtimeconfig.dev.json
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.pdb
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.Views.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.Views.pdb
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.csproj.AssemblyReference.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.AssemblyInfoInputs.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.AssemblyInfo.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.csproj.CoreCompileInputs.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorAssemblyInfo.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorAssemblyInfo.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreMVCApp.StaticWebAssets.Manifest.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreMVCApp.StaticWebAssets.xml
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\DotNetCoreMVCApp.styles.css
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.TagHelpers.input.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.TagHelpers.output.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorCoreGenerate.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\UserCRUD\Index.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorTargetAssemblyInfo.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorTargetAssemblyInfo.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.Views.pdb
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.csproj.CopyComplete
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.pdb
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.genruntimeconfig.cache
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.xml
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\UserCRUD\EditUser.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\UserCRUD\CreateUser.cshtml.g.cs
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\log4net.config
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Ajay\Visual_Studio\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\log4net.config
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.exe
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.deps.json
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.runtimeconfig.json
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.runtimeconfig.dev.json
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.pdb
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.Views.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\DotNetCoreMVCApp.Views.pdb
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.xml
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.csproj.AssemblyReference.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.AssemblyInfoInputs.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.AssemblyInfo.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.csproj.CoreCompileInputs.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorAssemblyInfo.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorAssemblyInfo.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreMVCApp.StaticWebAssets.Manifest.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\DotNetCoreMVCApp.StaticWebAssets.xml
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\DotNetCoreMVCApp.styles.css
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.TagHelpers.input.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.TagHelpers.output.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorCoreGenerate.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\UserCRUD\CreateUser.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\UserCRUD\EditUser.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\UserCRUD\Index.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorTargetAssemblyInfo.cache
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.RazorTargetAssemblyInfo.cs
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.Views.pdb
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.csproj.CopyComplete
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.dll
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.pdb
+C:\Ajay\GitHub\SimpleWebApp\DotNetCoreMVCApp\obj\Debug\netcoreapp3.1\DotNetCoreMVCApp.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+2022-11-01 16:27:11,940 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-11-01 16:27:11,976 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-11-01 16:27:11,988 [1] INFO  App  
+ Content root path: C:\Ajay\Visual_Studio\DotNetCoreMVCApp 
+ 

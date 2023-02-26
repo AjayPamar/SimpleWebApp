@@ -1,0 +1,24 @@
+2022-10-25 12:50:44,709 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-10-25 12:50:44,856 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-10-25 12:50:44,868 [1] INFO  App  
+ Content root path: C:\Ajay\Visual_Studio\DotNetCoreMVCApp 
+ 
+2022-10-25 12:58:04,587 [17] INFO  App  
+ Successfully retrived all users 
+ 
+2022-10-25 12:58:31,267 [17] INFO  App  
+ Successfully retrived all users 
+ 
+2022-10-25 13:36:37,464 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2022-10-25 13:36:37,482 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2022-10-25 13:36:37,495 [1] INFO  App  
+ Content root path: C:\Ajay\Visual_Studio\DotNetCoreMVCApp 
+ 

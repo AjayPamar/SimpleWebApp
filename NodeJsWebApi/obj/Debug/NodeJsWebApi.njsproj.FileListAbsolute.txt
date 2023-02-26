@@ -1,0 +1,9 @@
+C:\Ajay\Visual Studio\NodeJsWebApi\obj\Debug\NodeJsWebApi.njsproj.AssemblyReference.cache
+C:\Ajay\Visual Studio\NodeJsWebApi\obj\Debug\NodeJsWebApi.njsproj.CoreCompileInputs.cache
+C:\Ajay\Visual Studio\NodeJsWebApi\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Ajay\Visual_Studio\NodeJsWebApi\obj\Debug\NodeJsWebApi.njsproj.AssemblyReference.cache
+C:\Ajay\Visual_Studio\NodeJsWebApi\obj\Debug\NodeJsWebApi.njsproj.CoreCompileInputs.cache
+C:\Ajay\Visual_Studio\NodeJsWebApi\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Ajay\GitHub\SimpleWebApp\NodeJsWebApi\obj\Debug\NodeJsWebApi.njsproj.AssemblyReference.cache
+C:\Ajay\GitHub\SimpleWebApp\NodeJsWebApi\obj\Debug\NodeJsWebApi.njsproj.CoreCompileInputs.cache
+C:\Ajay\GitHub\SimpleWebApp\NodeJsWebApi\bin\Microsoft.NodejsTools.WebRole.dll
